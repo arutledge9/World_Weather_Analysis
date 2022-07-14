@@ -1,3 +1,19 @@
+#Adding config.py file
+config.py
+
+#adding additional files
+API_practice.ipynb
+random_numbers.ipynb
+6-1-Student_Resources.zip
+6-2-Student_Resources.zip
+M6.1 Live Lesson Slides.pdf
+M6.2 Live Lesson Slides.pdf
+MSU-VIRT-DATA-PT-05-2022-U-B-main-06-APIs-Class-1.zip
+MSU-VIRT-DATA-PT-05-2022-U-B-main-06-APIs-Class-1/
+MSU-VIRT-DATA-PT-05-2022-U-B-main-06-APIs-Class-2.zip
+MSU-VIRT-DATA-PT-05-2022-U-B-main-06-APIs-Class-2/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
